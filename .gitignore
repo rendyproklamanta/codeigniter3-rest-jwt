@@ -1,0 +1,17 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+composer.lock
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
